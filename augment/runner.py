@@ -14,7 +14,7 @@ import logging
 
 # Disable plotting if matplotlib is not installed
 global PLOTTING
-PLOTTING = False
+PLOTTING = True
 try:
     import matplotlib.pyplot as plt
 except ImportError as e:
