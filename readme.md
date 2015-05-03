@@ -17,7 +17,7 @@ We have tried to keep dependencies as minimal as possible. To run the example yo
 - [matplotlib](http://matplotlib.org) (tested on 1.3.1, required if you want to plot performance results)
 
 On MacOS, we recommend to use [homebrew](http://brew.sh) to install python and the required dependencies. See e.g. 
-[here](https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/) for a set by step guide that includes installing our dependencies.
+[here](https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/) for a step by step guide that includes installing our dependencies.
 
 # Running a simple example task
 
