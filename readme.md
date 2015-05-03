@@ -37,7 +37,7 @@ If you have matplotlib installed, ```runner.py``` generates a plot that shows th
 
 # Citing
 
-If you use this code for any publications, please consider citing our paper:
+If you use this code for any publications, please cite our paper:
 
 Rombouts JO, Bohte SM, Roelfsema PR (2015)
 How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks.
