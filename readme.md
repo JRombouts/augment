@@ -17,7 +17,7 @@ We have tried to keep dependencies as minimal as possible. To run the example yo
 - [matplotlib](http://matplotlib.org) (tested on 1.3.1, required if you want to plot performance results)
 
 On MacOS, we recommend to use [homebrew](http://brew.sh) to install python and the required dependencies. See e.g. 
-[here](https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/) for a set by step guide that includes installing our dependencies.
+[here](https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/) for a step by step guide that includes installing our dependencies.
 
 # Running a simple example task
 
@@ -37,7 +37,7 @@ If you have matplotlib installed, ```runner.py``` generates a plot that shows th
 
 # Citing
 
-If you use this code for any publications, please consider citing our paper:
+If you use this code for any publications, please cite our paper:
 
 Rombouts JO, Bohte SM, Roelfsema PR (2015)
 How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks.
